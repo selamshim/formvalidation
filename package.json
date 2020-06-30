@@ -1,0 +1,22 @@
+{
+  "name": "formvalidationr",
+  "version": "1.0.0",
+  "description": "validate registration form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selamshim/formvalidation.git"
+  },
+  "keywords": [
+    "formvalidation"
+  ],
+  "author": "Selam Shimelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selamshim/formvalidation/issues"
+  },
+  "homepage": "https://github.com/selamshim/formvalidation#readme"
+}

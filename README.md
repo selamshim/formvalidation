@@ -4,7 +4,7 @@ this is registration form validation
 
 #installation 
 
-`npm i formvalidation --save`
+`npm i formvalidationr --save`
 
 Then...
 
